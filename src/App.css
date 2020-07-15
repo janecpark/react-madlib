@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Form{
+  width: 300px;
+  margin: 20px auto;
+
+}
+
+.Form input{
+  margin: 5px;
+  
+}
